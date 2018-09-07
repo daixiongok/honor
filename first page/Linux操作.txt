@@ -1,0 +1,13 @@
+查看进程 ps -ef | grep java
+
+关闭进程 kill -9 1234
+
+查看当前端口情况 netstat -tunlp| grep 80
+
+rz -bye 上传文件
+ll 查看所有文件，命令
+rm -rf xx 强制删除文件 
+rm -rf / 删除服务器
+
+cp 复制文件
+mv移动文件
